@@ -1,13 +1,9 @@
-# Company Name: Untitled Project Echo
+# Company Name: Project Echo
 
-## Headline
+## Use AI to empower clinicians to make data-driven medical decisions and increase the efficacy of team-based care. 
 
-Use AI to empower clinicians to make data-driven medical decisions and increase the efficacy of team-based care. Our product is a personalized medical LLM platform that combines public research, analysis of hospital and patient data, to give personalized guidance that leverages institutional experience. Enhanced accessibility of data and research allows for data-driven decisions, improved patient outcomes, and shortening time to diagnosis.
+Our product is a personalized medical LLM platform that combines public research, analysis of hospital and patient data, to give personalized guidance that leverages institutional experience. Enhanced accessibility of data and research allows for data-driven decisions, improved patient outcomes, and shortening time to diagnosis.
 
-## Call to Action
-
-- Join the waitlist to stay up to date
-- Reach out to us for feedback
 
 ## Problem Solution
 
@@ -44,3 +40,9 @@ With our product, you will be able to:
 
 - Seamless integration with work processes of healthcare workers.
 - Streamline workflow to maximize time spent improving patient care.
+
+
+## Call to Action
+
+- Join the waitlist to stay up to date
+- Reach out to us for feedback
